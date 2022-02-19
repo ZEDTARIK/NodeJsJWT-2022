@@ -1,4 +1,7 @@
 NodeJS with JWT 
 
 1 - First insatll express@4.17.0
-2- Second install nodemon@1.19.10 --save-dev
+2 - Second install nodemon@1.19.10 --save-dev
+
+3 - install mongoose@5.5.9
+4 - install dotenv for protect the variable envirenement , for exemple password and user database
